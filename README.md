@@ -1,5 +1,5 @@
 # cp_alogrithms
-Here i have uploaded all my learnings and important techniques i 
+In this repository i have uploaded all my learnings and important techniques i 
 have come accross while solving problems.
 
 This repository also contains many good questions that i have solved using these algorithms.
